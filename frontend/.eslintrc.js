@@ -11,6 +11,6 @@ module.exports = {
       parser: 'babel-eslint',
     },
     rules: {
-      // Coloque suas regras personalizadas aqui
+      // Aqui você pode configurar regras específicas do ESLint conforme necessário
     },
-  };  
+};
